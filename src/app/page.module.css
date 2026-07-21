@@ -9,10 +9,10 @@
 
 .card {
   width: min(100%, 680px);
-  padding: 32px;
+  padding: 48px;
   border: 1px solid #d9dee7;
   border-radius: 20px;
-  background: #ffffff;
+  background: #eef2ff;
   box-shadow: 0 24px 70px rgba(28, 38, 56, 0.12);
 }
 
